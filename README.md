@@ -21,14 +21,6 @@ A simple yet powerful WPF application that combines a **calculator** and a **bin
 
 The app is built using **Windows Presentation Foundation (WPF)** and follows the **MVVM (Model-View-ViewModel)** pattern for clean and maintainable code. The calculator logic handles both keyboard and button inputs seamlessly, while the converter ensures accurate binary-to-decimal conversions.
 
-## Screenshots
-
-![Calculator Screenshot](/screenshots/calculator.png)  
-*The calculator in action.*
-
-![Converter Screenshot](/screenshots/converter.png)  
-*The binary-to-decimal converter.*
-
 ## Getting Started
 
 ### Prerequisites
