@@ -1,0 +1,130 @@
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.exe
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.deps.json
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.runtimeconfig.json
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.pdb
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\MediatR.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Nerdbank.Streams.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\OmniSharp.Extensions.JsonRpc.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\System.Reactive.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.AssemblyReference.cache
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\BinaryConverterWindow.baml
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\CalculatorWindow.baml
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\BinaryConverterWindow.g.cs
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\CalculatorWindow.g.cs
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF_MarkupCompile.cache
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.g.resources
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.AssemblyInfoInputs.cache
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.AssemblyInfo.cs
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.CoreCompileInputs.cache
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.Up2Date
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.dll
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\refint\MeuAppWPF.dll
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.pdb
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.genruntimeconfig.cache
+C:\Windows\System32\MeuAppWPF\obj\Debug\net9.0-windows\ref\MeuAppWPF.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.exe
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.deps.json
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.runtimeconfig.json
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MeuAppWPF.pdb
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\MediatR.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Nerdbank.Streams.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\OmniSharp.Extensions.JsonRpc.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\System.Reactive.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.AssemblyReference.cache
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\BinaryConverterWindow.baml
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\CalculatorWindow.baml
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\BinaryConverterWindow.g.cs
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\CalculatorWindow.g.cs
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF_MarkupCompile.cache
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.g.resources
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.AssemblyInfo.cs
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.csproj.Up2Date
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.dll
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\refint\MeuAppWPF.dll
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.pdb
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\MeuAppWPF.genruntimeconfig.cache
+C:\Program Files (x86)\MeuAppWPF\obj\Debug\net9.0-windows\ref\MeuAppWPF.dll

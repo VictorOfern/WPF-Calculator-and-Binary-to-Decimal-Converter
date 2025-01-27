@@ -1,0 +1,54 @@
+<Window x:Class="MeuAppWPF.CalculatorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculadora" Height="500" Width="400"
+        Background="#f0f4f8" FontFamily="Segoe UI" FontSize="16"
+        KeyDown="CalculatorWindow_KeyDown"
+        Focusable="True">
+        
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- TextBox para exibir os números e resultados -->
+        <TextBox Name="Display" 
+                 FontSize="24" 
+                 HorizontalAlignment="Stretch"
+                 VerticalAlignment="Top"
+                 IsReadOnly="True" 
+                 TextAlignment="Right"
+                 Height="60" 
+                 Margin="0,0,0,10" />
+
+        <!-- Botões da calculadora -->
+        <UniformGrid Grid.Row="1" Columns="4" Rows="5" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <!-- Linha 1 -->
+            <Button Content="7" Click="NumberButton_Click" />
+            <Button Content="8" Click="NumberButton_Click" />
+            <Button Content="9" Click="NumberButton_Click" />
+            <Button Content="÷" Click="OperatorButton_Click" />
+
+            <!-- Linha 2 -->
+            <Button Content="4" Click="NumberButton_Click" />
+            <Button Content="5" Click="NumberButton_Click" />
+            <Button Content="6" Click="NumberButton_Click" />
+            <Button Content="x" Click="OperatorButton_Click" />
+
+            <!-- Linha 3 -->
+            <Button Content="1" Click="NumberButton_Click" />
+            <Button Content="2" Click="NumberButton_Click" />
+            <Button Content="3" Click="NumberButton_Click" />
+            <Button Content="-" Click="OperatorButton_Click" />
+
+            <!-- Linha 4 -->
+            <Button Content="0" Click="NumberButton_Click" />
+            <Button Content="C" Click="ClearButton_Click" />
+            <Button Content="=" Click="EqualsButton_Click" />
+            <Button Content="+" Click="OperatorButton_Click" />
+        </UniformGrid>
+        <Button Content="Voltar" HorizontalAlignment="Center" VerticalAlignment="Bottom"
+        Margin="0,10" Width="100" Click="GoBack_Click" Grid.Row="2" />
+    </Grid>
+</Window>
