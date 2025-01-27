@@ -31,3 +31,20 @@ The app is built using **Windows Presentation Foundation (WPF)** and follows the
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+2. Open the Solution in Visual Studio
+- Navigate to the cloned folder and open the `YourApp.sln` file.
+
+3. Build the Project
+- In Visual Studio, go to `Build > Build Solution` (or press `Ctrl + Shift + B`).
+
+3. Run the App
+- Click `Debug > Start Debugging` (or press `F5`).
+
+---
+## Using the Pre-Built Release
+1. Download the latest release from this repository section.
+2. Extract the `.zip` file.
+3. Run the `.exe` file.
+
+---
